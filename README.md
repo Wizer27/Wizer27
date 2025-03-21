@@ -2,15 +2,9 @@
 
 🧠 Mid-level developer | ⚙️ Assembly Wizard | 💻 Performance Enthusiast
 
----
-
-## 🔩 About Me
-
-Hey, I’m Wizer27 – a passionate low-level programmer who speaks fluent Assembly (and probably in hex too). I write code as close to the metal as possible, squeezing out every drop of performance.
 
 ### 🛠️ My specialties:
 
-- 🧬 Assembly (x86, x86_64)
 - 🧱 System-level programming
 - 💥 Performance optimization
 - 🕹️ Reverse engineering & debugging
@@ -20,7 +14,7 @@ Hey, I’m Wizer27 – a passionate low-level programmer who speaks fluent Assem
 
 ## 🧰 Tools & Technologies
 
-- 🧠 Languages: `Assembly`, `C`, `C++`
+- 🧠 Languages: `Python`, `C`, `C++`
 - 🧰 Tools: `NASM`, `GDB`, `IDA`, `Radare2`, `Linux`, `Make`
 - 💡 Hobbies: Building from scratch, reverse-engineering software, optimizing to the limit
 
