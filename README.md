@@ -6,7 +6,7 @@
 
 ## 🔩 About Me
 
-Hey, I’m [Your Friend’s Name] – a passionate low-level programmer who speaks fluent Assembly (and probably in hex too). I write code as close to the metal as possible, squeezing out every drop of performance.
+Hey, I’m Wizer27 – a passionate low-level programmer who speaks fluent Assembly (and probably in hex too). I write code as close to the metal as possible, squeezing out every drop of performance.
 
 ### 🛠️ My specialties:
 
