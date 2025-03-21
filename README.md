@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 # 👨‍💻 Welcome to [Wizer27]!
 
 🧠 Mid-level developer | ⚙️ Assembly Wizard | 💻 Performance Enthusiast
