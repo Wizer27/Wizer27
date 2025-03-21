@@ -31,7 +31,7 @@
 
 ## 📫 Contact Me
 
-- Email: [Email](svd2yar@gmail.com)  
+- [Email](svd2yar@gmail.com)  
 
 ---
 
