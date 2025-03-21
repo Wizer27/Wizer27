@@ -16,7 +16,7 @@
 
 - 🧠 Languages: `Python`, `C`, `C++`
 - 🧰 Tools: `NASM`, `GDB`, `IDA`, `Radare2`, `Linux`, `Make`
-- 💡 Hobbies: Building from scratch, reverse-engineering software, optimizing to the limit
+
 
 ---
 
@@ -24,20 +24,18 @@
 
 - ⚙️ Writing optimized routines in pure ASM  
 - 🔍 Exploring low-level OS internals  
-- 🧠 Reverse-engineering cool stuff (just for fun 😏)  
+- 🧠 Reverse-engineering cool stuff 
 - 🧱 Maybe building a small OS or bootloader...
 
 ---
 
 ## 📫 Contact Me
 
-- Email: [your@email.com]  
-- Telegram: [@yourhandle]  
-- GitHub: [github.com/yourusername]
+- Email: [svd2yar@gmail.com]  
 
 ---
 
-> “High-level devs debug with tools. Low-level devs *are* the tools.” 😎
+
 
 
 
