@@ -5,24 +5,24 @@
 
 ### 🛠️ My specialties:
 
-- 🧱 System-level programming
-- 💥 Performance optimization
-- 🕹️ Reverse engineering & debugging
+- 🧱 Web application development
+- 💥 App development
+- 🕹️ Backend development
 - 🔐 Security & exploit dev
 
 ---
 
 ## 🧰 Tools & Technologies
 
-- 🧠 Languages: `Python`, `C`, `C++`
-- 🧰 Tools: `NASM`, `GDB`, `IDA`, `Radare2`, `Linux`, `Make`
+- 🧠 Languages: `Python`, `C`, `C++`,`Java`
+- 🧰 Tools: `Git`, `Numpy`, `Streamlit`, `Radare2`, `Linux`, `Make`
 
 
 ---
 
 ## 🚀 What I’m Working On
 
-- ⚙️ Writing optimized routines in pure ASM  
+- ⚙️ Coding fully opensource application  
 - 🔍 Exploring low-level OS internals  
 - 🧠 Reverse-engineering cool stuff 
 - 🧱 Maybe building a small OS or bootloader...
