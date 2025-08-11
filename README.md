@@ -1,4 +1,4 @@
-# 👨‍💻 Welcome to [Wizer27]!
+# LUX
 
 🧠 Mid-level developer | ⚙️ C++ Wizard | 💻 Performance Enthusiast
 
