@@ -15,7 +15,7 @@
 ## 🧰 Tools & Technologies
 
 - 🧠 Languages: `Python`, `C`, `C++`,`GO`
-- 🧰 Tools: `Git`, `Numpy`, `Streamlit`, `Radare2`, `Linux`, `Make`
+- 🧰 Tools: `Git`, `Numpy`, `Streamlit`, `Radare2`, `Linux`, `Make`,`Redis`
 
 
 ---
