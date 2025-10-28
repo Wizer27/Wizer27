@@ -16,21 +16,6 @@
 
 
 
-### 🧰 Languages & Tools
-
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=gnuemacs&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![GDB](https://img.shields.io/badge/GDB-000000?style=for-the-badge&logo=gnu&logoColor=white)  
-![NASM](https://img.shields.io/badge/NASM-4B0082?style=for-the-badge&logoColor=white)  
-![IDA Pro](https://img.shields.io/badge/IDA--Pro-000000?style=for-the-badge&logo=protonmail&logoColor=white)  
-![Makefile](https://img.shields.io/badge/Makefile-3776AB?style=for-the-badge&logo=gnu&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-<img align="left" alt="LUX's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Wizer27&show_icons=true&hide_border=true&theme=radical" />
 
 
 <!--
