@@ -2,7 +2,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/Lux/Lux/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Wizer27/output/snake.svg" alt="Snake animation" />
 
   
 
