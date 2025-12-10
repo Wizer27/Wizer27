@@ -2,7 +2,7 @@
 
 
 
-
+<img src="https://raw.githubusercontent.com/Wizer27/Wizer27/output/snake.svg" alt="Snake animation" />
 
   
 
