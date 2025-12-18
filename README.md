@@ -1,5 +1,5 @@
 # LUX
-[LUX Stats](https://github-readme-stats.vercel.app/api?username=Wizer27)
+![LUX Stats](https://github-readme-stats.vercel.app/api?username=Wizer27)
 
 
 <!--<img src="https://raw.githubusercontent.com/Wizer27/Lux/output/snake.svg" alt="Snake animation" />
