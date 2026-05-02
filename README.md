@@ -1,27 +1,25 @@
-# LUX
-![LUX Stats](https://github-readme-stats.vercel.app/api?username=Wizer27)
+<div align="center">
 
+<br>
 
-<!--<img src="https://raw.githubusercontent.com/Wizer27/Lux/output/snake.svg" alt="Snake animation" />
+# W I Z E R 2 7
 
-  
+<br>
 
+─────────────────────────────────────────────────────
 
+<br>
 
+![](https://github-readme-stats.vercel.app/api?username=Wizer27&show_icons=true&bg_color=000000&text_color=ffffff&icon_color=ffffff&border_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true&rank_icon=github)
+&nbsp;
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wizer27&layout=compact&bg_color=000000&text_color=ffffff&border_color=ffffff&title_color=ffffff&langs_count=6)
 
+<br>
 
+![](https://streak-stats.demolab.com?user=Wizer27&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888&border=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=000000)
 
+<br>
 
-<!--
-**Wizer27/Wizer27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+─────────────────────────────────────────────────────
 
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
